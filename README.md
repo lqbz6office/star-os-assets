@@ -6,7 +6,7 @@
 
 | 你要什么 | 下这个 |
 |---|---|
-| **在线版**(约 130 KB,刷入时自动去下载资源包) | 本仓库的 [`zz_star_os-1.4.1-online.zip`](zz_star_os-1.4.1-online.zip) |
+| **在线版**(约 130 KB,刷入时自动去下载资源包) | 本仓库的 [`zz_star_os-1.4.1fix-online.zip`](zz_star_os-1.4.1fix-online.zip) |
 | **离线全量版**(约 174 MB,不联网也能装) | 到 [Releases](../../releases) 页找 `zz_star_os-*-full.zip` |
 | **资源包**本体(约 174 MB,在线版刷入时自动下载的那一份) | 同样在 [Releases](../../releases) 页 |
 
@@ -20,7 +20,7 @@
 |---|---|
 | `update.json` | **模块更新清单**。模块 `module.prop` 里的 `updateJson=` 指向它,Magisk 应用据此在模块页显示「更新」按钮 |
 | `changelog.md` | 更新说明。点「更新」时 Magisk 会显示它 |
-| `zz_star_os-1.4.1-online.zip` | 在线版模块本体。`update.json` 的 `zipUrl` 指向它 —— 走 OTA 更新的就是这一个 |
+| `zz_star_os-1.4.1fix-online.zip` | 在线版模块本体。`update.json` 的 `zipUrl` 指向它 —— 走 OTA 更新的就是这一个 |
 | `README.md` | 本文件 |
 
 ## 为什么都走 jsDelivr

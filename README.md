@@ -2,11 +2,20 @@
 
 **Star OS** —— 小天才 4100 / Z12 的 Magisk 定制模块,**在线版**的分发仓库。
 
+## ⚠ 1.5 重要公告
+
+- **移除 5100(SDK 30 / Android 11)支持** —— 5100 上实测问题太多
+  (字体无法正常加载等),1.5 起模块**只支持 4100(SDK 27 / Android 8.1)**,
+  在 5100 上刷入会直接中止安装。5100 用户请停留在 **1.4.1fix2**。
+- **新增插件系统** —— Star OS 应用内「插件」入口:云端商店 + 本地插件 + 权限逐项授权。
+  插件商店 / 投稿见 [star-os-plugins](https://github.com/lqbz6office/star-os-plugins)。
+- **修复开机欢迎页弹出过晚** —— 桌面出来即弹。
+
 ## 我要装模块,该下哪个?
 
 | 你要什么 | 下这个 |
 |---|---|
-| **在线版**(约 130 KB,刷入时自动去下载资源包) | 本仓库的 [`zz_star_os-1.4.1fix2-online.zip`](zz_star_os-1.4.1fix2-online.zip) |
+| **在线版**(约 130 KB,刷入时自动去下载资源包) | 本仓库的 [`zz_star_os-1.5-online.zip`](zz_star_os-1.5-online.zip) |
 | **离线全量版**(约 174 MB,不联网也能装) | 到 [Releases](../../releases) 页找 `zz_star_os-*-full.zip` |
 | **资源包**本体(约 174 MB,在线版刷入时自动下载的那一份) | 同样在 [Releases](../../releases) 页 |
 
@@ -20,7 +29,8 @@
 |---|---|
 | `update.json` | **模块更新清单**。模块 `module.prop` 里的 `updateJson=` 指向它,Magisk 应用据此在模块页显示「更新」按钮 |
 | `changelog.md` | 更新说明。点「更新」时 Magisk 会显示它 |
-| `zz_star_os-1.4.1fix2-online.zip` | 在线版模块本体。`update.json` 的 `zipUrl` 指向它 —— 走 OTA 更新的就是这一个 |
+| `notice.txt` | **应用内公告**。Star OS 应用首页的公告卡片直接读它,改完已装机用户就能看到,不用发版 |
+| `zz_star_os-1.5-online.zip` | 在线版模块本体。`update.json` 的 `zipUrl` 指向它 —— 走 OTA 更新的就是这一个 |
 | `README.md` | 本文件 |
 
 ## 为什么都走 jsDelivr

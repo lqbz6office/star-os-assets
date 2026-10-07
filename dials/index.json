@@ -1,6 +1,62 @@
 {
- "count": 0,
- "entries": {},
- "updated": "2026-10-06T14:10:20Z",
+ "count": 5,
+ "entries": {
+  "star-aurora": {
+   "at": "2026-10-07T12:54:12Z",
+   "author": "星",
+   "cl": "dials/star-aurora/star-aurora.cl",
+   "desc": "极光夜空 · 冷绿流线",
+   "name": "极光",
+   "preview": "dials/star-aurora/preview.png",
+   "sha256": "b20ebf514b5338f58757284ab30b2e617ae84964957ae9f3405d56e323d2f116",
+   "size": 2338553,
+   "status": "active"
+  },
+  "star-carbon": {
+   "at": "2026-10-07T12:54:12Z",
+   "author": "星",
+   "cl": "dials/star-carbon/star-carbon.cl",
+   "desc": "碳纤纹理 · 橙色强调",
+   "name": "碳纤",
+   "preview": "dials/star-carbon/preview.png",
+   "sha256": "25fc6e140b3311d151456618c81b412cab0140df1ab3ae85039f2590384393ac",
+   "size": 1844685,
+   "status": "active"
+  },
+  "star-circuit": {
+   "at": "2026-10-07T12:54:12Z",
+   "author": "星",
+   "cl": "dials/star-circuit/star-circuit.cl",
+   "desc": "暗夜科技 · 青色电路",
+   "name": "星轨",
+   "preview": "dials/star-circuit/preview.png",
+   "sha256": "9361ddc5986e40d28fb6b813568e1690f0f2f0de54e53542a027de8e32558d3b",
+   "size": 2050392,
+   "status": "active"
+  },
+  "star-coral": {
+   "at": "2026-10-07T12:54:12Z",
+   "author": "星",
+   "cl": "dials/star-coral/star-coral.cl",
+   "desc": "暖橙粉调 · 圆点律动",
+   "name": "珊瑚",
+   "preview": "dials/star-coral/preview.png",
+   "sha256": "285d779b6287bffec2c0021563089d2c9995539ff1f4afc351981b61d58c199f",
+   "size": 4534433,
+   "status": "active"
+  },
+  "star-nebula": {
+   "at": "2026-10-07T12:54:12Z",
+   "author": "星",
+   "cl": "dials/star-nebula/star-nebula.cl",
+   "desc": "深空紫蓝 · 发光指针",
+   "name": "星云",
+   "preview": "dials/star-nebula/preview.png",
+   "sha256": "e1ad7a47e989f9aea0a4467f5f4e18ee26131b9b0e1da70fbee4c006300aae38",
+   "size": 1990784,
+   "status": "active"
+  }
+ },
+ "updated": "2026-10-07T12:54:12Z",
  "ver": 1
 }

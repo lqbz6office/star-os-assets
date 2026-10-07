@@ -1,0 +1,11 @@
+{
+ "name": "星云",
+ "author": "星",
+ "desc": "深空紫蓝 · 发光指针",
+ "size": 1990784,
+ "sha256": "e1ad7a47e989f9aea0a4467f5f4e18ee26131b9b0e1da70fbee4c006300aae38",
+ "cl": "dials/star-nebula/star-nebula.cl",
+ "preview": "dials/star-nebula/preview.png",
+ "status": "active",
+ "at": "2026-10-07T12:54:12Z"
+}

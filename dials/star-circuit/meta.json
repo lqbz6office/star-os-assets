@@ -1,0 +1,11 @@
+{
+ "name": "星轨",
+ "author": "星",
+ "desc": "暗夜科技 · 青色电路",
+ "size": 2050392,
+ "sha256": "9361ddc5986e40d28fb6b813568e1690f0f2f0de54e53542a027de8e32558d3b",
+ "cl": "dials/star-circuit/star-circuit.cl",
+ "preview": "dials/star-circuit/preview.png",
+ "status": "active",
+ "at": "2026-10-07T12:54:12Z"
+}

@@ -1,6 +1,18 @@
 {
- "count": 5,
+ "count": 15,
  "entries": {
+  "star-abyss": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-abyss/star-abyss.cl",
+   "desc": "动态深海 · 极光涌动",
+   "name": "深海",
+   "preview": "dials/star-abyss/preview.png",
+   "sha256": "f71dd75021cd88e2d4f05c110d6f7967012bf957911bb383fa913b497e1f9b56",
+   "size": 3944725,
+   "status": "active",
+   "tier": 2
+  },
   "star-aurora": {
    "at": "2026-10-07T12:54:12Z",
    "author": "星",
@@ -49,6 +61,54 @@
    "status": "active",
    "tier": 2
   },
+  "star-galaxy": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-galaxy/star-galaxy.cl",
+   "desc": "动态星河 · 粒子流动",
+   "name": "星河",
+   "preview": "dials/star-galaxy/preview.png",
+   "sha256": "48e816e1cb21c90bf10d2797373e28b2de8b4247888ce3d7ff5bf93b1f60bce6",
+   "size": 3220420,
+   "status": "active",
+   "tier": 2
+  },
+  "star-ink": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-ink/star-ink.cl",
+   "desc": "墨玉青瓷 · 碳纤质感",
+   "name": "墨玉",
+   "preview": "dials/star-ink/preview.png",
+   "sha256": "717775248d48e2a8bf7c7f3869b178cd34a6c6e6f77f64b920aab52750c96b47",
+   "size": 3175470,
+   "status": "active",
+   "tier": 0
+  },
+  "star-lava": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-lava/star-lava.cl",
+   "desc": "动态熔岩 · 碳纹心跳",
+   "name": "熔岩",
+   "preview": "dials/star-lava/preview.png",
+   "sha256": "799dd4b04f4abee0fddcc6d6701f7f151dcb25c34e1ee79a966ca8f45ea0c9f2",
+   "size": 2541239,
+   "status": "active",
+   "tier": 2
+  },
+  "star-mist": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-mist/star-mist.cl",
+   "desc": "灰蓝晨雾 · 柔光指针",
+   "name": "晨雾",
+   "preview": "dials/star-mist/preview.png",
+   "sha256": "90c5590cf1f28848a5b9bf5ca92cecae90a967b7668413f63f80617c05dcd7dd",
+   "size": 1773943,
+   "status": "active",
+   "tier": 0
+  },
   "star-nebula": {
    "at": "2026-10-07T12:54:12Z",
    "author": "星",
@@ -60,8 +120,68 @@
    "size": 1990784,
    "status": "active",
    "tier": 2
+  },
+  "star-polar": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-polar/star-polar.cl",
+   "desc": "动态极夜 · 冷光网格",
+   "name": "极夜",
+   "preview": "dials/star-polar/preview.png",
+   "sha256": "28c6baa7f8afa2788bd04d511f9d67686cb01612e07e27083fbd5c2305ac76ce",
+   "size": 2635174,
+   "status": "active",
+   "tier": 2
+  },
+  "star-sakura": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-sakura/star-sakura.cl",
+   "desc": "樱粉夜色 · 温柔圆点",
+   "name": "樱粉",
+   "preview": "dials/star-sakura/preview.png",
+   "sha256": "a0e4958ab8c3eaa4a3b802cfe7b4ae1dfce6eed8da48d54094a032fa3cf214a3",
+   "size": 7473807,
+   "status": "active",
+   "tier": 0
+  },
+  "star-sky": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-sky/star-sky.cl",
+   "desc": "晴空蓝调 · 网格刻度",
+   "name": "晴空",
+   "preview": "dials/star-sky/preview.png",
+   "sha256": "9d4f52241c134b05cf56b429f6444bf4cdef350c885db81a97578ca0ed5d7367",
+   "size": 2560179,
+   "status": "active",
+   "tier": 0
+  },
+  "star-spark": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-spark/star-spark.cl",
+   "desc": "动态星火 · 光点跃动",
+   "name": "星火",
+   "preview": "dials/star-spark/preview.png",
+   "sha256": "f36b894695f45e2c81b5a285f9fe4a3b45c2dfcd191c435420c9c874532369f8",
+   "size": 2752978,
+   "status": "active",
+   "tier": 2
+  },
+  "star-wheat": {
+   "at": "2026-10-10T14:23:12Z",
+   "author": "星",
+   "cl": "dials/star-wheat/star-wheat.cl",
+   "desc": "暖金麦浪 · 圆点律动",
+   "name": "麦田",
+   "preview": "dials/star-wheat/preview.png",
+   "sha256": "850dc3e8813b5dc9d28100aa89683d2b4874d44fe25e0b70c24a075f7601adfa",
+   "size": 3567127,
+   "status": "active",
+   "tier": 0
   }
  },
- "updated": "2026-10-07T12:54:12Z",
+ "updated": "2026-10-10T14:23:12Z",
  "ver": 1
 }

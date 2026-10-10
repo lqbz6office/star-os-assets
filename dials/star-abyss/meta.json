@@ -1,0 +1,12 @@
+{
+ "name": "深海",
+ "author": "星",
+ "desc": "动态深海 · 极光涌动",
+ "size": 3944725,
+ "sha256": "f71dd75021cd88e2d4f05c110d6f7967012bf957911bb383fa913b497e1f9b56",
+ "cl": "dials/star-abyss/star-abyss.cl",
+ "preview": "dials/star-abyss/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-10T14:23:12Z"
+}

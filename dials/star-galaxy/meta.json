@@ -1,0 +1,12 @@
+{
+ "name": "星河",
+ "author": "星",
+ "desc": "动态星河 · 粒子流动",
+ "size": 3220420,
+ "sha256": "48e816e1cb21c90bf10d2797373e28b2de8b4247888ce3d7ff5bf93b1f60bce6",
+ "cl": "dials/star-galaxy/star-galaxy.cl",
+ "preview": "dials/star-galaxy/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-10T14:23:12Z"
+}

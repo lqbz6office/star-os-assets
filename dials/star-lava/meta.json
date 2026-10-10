@@ -1,0 +1,12 @@
+{
+ "name": "熔岩",
+ "author": "星",
+ "desc": "动态熔岩 · 碳纹心跳",
+ "size": 2541239,
+ "sha256": "799dd4b04f4abee0fddcc6d6701f7f151dcb25c34e1ee79a966ca8f45ea0c9f2",
+ "cl": "dials/star-lava/star-lava.cl",
+ "preview": "dials/star-lava/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-10T14:23:12Z"
+}

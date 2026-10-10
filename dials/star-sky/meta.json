@@ -1,0 +1,12 @@
+{
+ "name": "晴空",
+ "author": "星",
+ "desc": "晴空蓝调 · 网格刻度",
+ "size": 2560179,
+ "sha256": "9d4f52241c134b05cf56b429f6444bf4cdef350c885db81a97578ca0ed5d7367",
+ "cl": "dials/star-sky/star-sky.cl",
+ "preview": "dials/star-sky/preview.png",
+ "status": "active",
+ "tier": 0,
+ "at": "2026-10-10T14:23:12Z"
+}

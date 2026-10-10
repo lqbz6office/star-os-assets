@@ -1,0 +1,12 @@
+{
+ "name": "星火",
+ "author": "星",
+ "desc": "动态星火 · 光点跃动",
+ "size": 2752978,
+ "sha256": "f36b894695f45e2c81b5a285f9fe4a3b45c2dfcd191c435420c9c874532369f8",
+ "cl": "dials/star-spark/star-spark.cl",
+ "preview": "dials/star-spark/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-10T14:23:12Z"
+}

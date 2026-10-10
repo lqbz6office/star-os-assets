@@ -1,0 +1,12 @@
+{
+ "name": "极夜",
+ "author": "星",
+ "desc": "动态极夜 · 冷光网格",
+ "size": 2635174,
+ "sha256": "28c6baa7f8afa2788bd04d511f9d67686cb01612e07e27083fbd5c2305ac76ce",
+ "cl": "dials/star-polar/star-polar.cl",
+ "preview": "dials/star-polar/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-10T14:23:12Z"
+}

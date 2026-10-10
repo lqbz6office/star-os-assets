@@ -7,5 +7,7 @@
  "cl": "dials/star-aurora/star-aurora.cl",
  "preview": "dials/star-aurora/preview.png",
  "status": "active",
- "at": "2026-10-07T12:54:12Z"
+ "at": "2026-10-07T12:54:12Z",
+ "id": "star-aurora",
+ "tier": 0
 }

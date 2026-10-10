@@ -7,5 +7,7 @@
  "cl": "dials/star-nebula/star-nebula.cl",
  "preview": "dials/star-nebula/preview.png",
  "status": "active",
- "at": "2026-10-07T12:54:12Z"
+ "at": "2026-10-07T12:54:12Z",
+ "id": "star-nebula",
+ "tier": 2
 }

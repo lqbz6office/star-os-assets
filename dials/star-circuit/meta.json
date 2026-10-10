@@ -7,5 +7,7 @@
  "cl": "dials/star-circuit/star-circuit.cl",
  "preview": "dials/star-circuit/preview.png",
  "status": "active",
- "at": "2026-10-07T12:54:12Z"
+ "at": "2026-10-07T12:54:12Z",
+ "id": "star-circuit",
+ "tier": 2
 }

@@ -7,5 +7,7 @@
  "cl": "dials/star-carbon/star-carbon.cl",
  "preview": "dials/star-carbon/preview.png",
  "status": "active",
- "at": "2026-10-07T12:54:12Z"
+ "at": "2026-10-07T12:54:12Z",
+ "id": "star-carbon",
+ "tier": 0
 }

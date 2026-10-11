@@ -2,13 +2,18 @@
 # 格式: <表盘id> <宿主>     (# 开头为注释)
 # 由 _gen_hosts.py 生成;手表端 starface.sh 的 sf_host_of 读它。
 star-abyss riyuexingchen
+star-amber starroad
 star-aurora sky2021
 star-carbon sporthealth
 star-circuit nfc1
+star-comet hornets
 star-coral bubbles1
+star-echo lingguangziwu
+star-frost zhuifeng
 star-galaxy cyberlightchess
 star-ink powderspace
 star-lava eternallightstate
+star-mint spacefly
 star-mist bumpuworld
 star-nebula greenpoint
 star-polar softlightdance

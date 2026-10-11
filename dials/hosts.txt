@@ -1,0 +1,18 @@
+# Star OS 表盘 -> 占用的官方表盘位(宿主)
+# 格式: <表盘id> <宿主>     (# 开头为注释)
+# 由 _gen_hosts.py 生成;手表端 starface.sh 的 sf_host_of 读它。
+star-abyss riyuexingchen
+star-aurora sky2021
+star-carbon sporthealth
+star-circuit nfc1
+star-coral bubbles1
+star-galaxy cyberlightchess
+star-ink powderspace
+star-lava eternallightstate
+star-mist bumpuworld
+star-nebula greenpoint
+star-polar softlightdance
+star-sakura yujiekongjian
+star-sky ultrapulse
+star-spark mirrorlight
+star-wheat punkera

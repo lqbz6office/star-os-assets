@@ -14,14 +14,14 @@
    "tier": 2
   },
   "star-amber": {
-   "at": "2026-10-11T13:40:26Z",
+   "at": "2026-10-11T13:42:47Z",
    "author": "星",
    "cl": "dials/star-amber/star-amber.cl",
    "desc": "琥珀暖光 · 网格刻度",
    "name": "琥珀",
    "preview": "dials/star-amber/preview.png",
-   "sha256": "ccc6b88697e21ddf15c4f207e597a5fac9d7f630ada27c7fad3b25693ca6f5fb",
-   "size": 2925816,
+   "sha256": "e4cd031eeb354c0430b2410e79a5b38758de90389497f6d4dfd7cce264f9c2f8",
+   "size": 720387,
    "status": "active",
    "tier": 0
   },
@@ -62,7 +62,7 @@
    "tier": 2
   },
   "star-comet": {
-   "at": "2026-10-11T13:40:26Z",
+   "at": "2026-10-11T13:42:47Z",
    "author": "星",
    "cl": "dials/star-comet/star-comet.cl",
    "desc": "动态彗星 · 星轨流动",
@@ -86,7 +86,7 @@
    "tier": 2
   },
   "star-echo": {
-   "at": "2026-10-11T13:40:26Z",
+   "at": "2026-10-11T13:42:47Z",
    "author": "星",
    "cl": "dials/star-echo/star-echo.cl",
    "desc": "动态回声 · 极光回荡",
@@ -98,14 +98,14 @@
    "tier": 2
   },
   "star-frost": {
-   "at": "2026-10-11T13:40:26Z",
+   "at": "2026-10-11T13:42:47Z",
    "author": "星",
    "cl": "dials/star-frost/star-frost.cl",
    "desc": "霜白冷调 · 碳纤质感",
    "name": "霜白",
    "preview": "dials/star-frost/preview.png",
-   "sha256": "4fde90c8019f18cf7e31ccb9608fad0e5e989ce545f5e5e5dd0811c768ab03c5",
-   "size": 2925816,
+   "sha256": "4e0ddb916fefd550a8bfdaf23c626885e0f895621ce19d3db1381872ccac598c",
+   "size": 3608292,
    "status": "active",
    "tier": 0
   },
@@ -146,7 +146,7 @@
    "tier": 2
   },
   "star-mint": {
-   "at": "2026-10-11T13:40:26Z",
+   "at": "2026-10-11T13:42:47Z",
    "author": "星",
    "cl": "dials/star-mint/star-mint.cl",
    "desc": "薄荷清凉 · 圆点跳动",
@@ -242,6 +242,6 @@
    "tier": 0
   }
  },
- "updated": "2026-10-11T13:40:26Z",
+ "updated": "2026-10-11T13:42:47Z",
  "ver": 1
 }

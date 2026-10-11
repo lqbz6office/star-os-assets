@@ -1,5 +1,5 @@
 {
- "count": 15,
+ "count": 20,
  "entries": {
   "star-abyss": {
    "at": "2026-10-11T12:43:35Z",
@@ -12,6 +12,18 @@
    "size": 4017805,
    "status": "active",
    "tier": 2
+  },
+  "star-amber": {
+   "at": "2026-10-11T13:40:26Z",
+   "author": "星",
+   "cl": "dials/star-amber/star-amber.cl",
+   "desc": "琥珀暖光 · 网格刻度",
+   "name": "琥珀",
+   "preview": "dials/star-amber/preview.png",
+   "sha256": "ccc6b88697e21ddf15c4f207e597a5fac9d7f630ada27c7fad3b25693ca6f5fb",
+   "size": 2925816,
+   "status": "active",
+   "tier": 0
   },
   "star-aurora": {
    "at": "2026-10-11T12:43:35Z",
@@ -49,6 +61,18 @@
    "status": "active",
    "tier": 2
   },
+  "star-comet": {
+   "at": "2026-10-11T13:40:26Z",
+   "author": "星",
+   "cl": "dials/star-comet/star-comet.cl",
+   "desc": "动态彗星 · 星轨流动",
+   "name": "彗星",
+   "preview": "dials/star-comet/preview.png",
+   "sha256": "6fd932371dc9b46c6cd612f5967cdec4bb1319782d8aaf299de2ed75592c4af7",
+   "size": 2408043,
+   "status": "active",
+   "tier": 2
+  },
   "star-coral": {
    "at": "2026-10-11T12:43:35Z",
    "author": "星",
@@ -60,6 +84,30 @@
    "size": 4538516,
    "status": "active",
    "tier": 2
+  },
+  "star-echo": {
+   "at": "2026-10-11T13:40:26Z",
+   "author": "星",
+   "cl": "dials/star-echo/star-echo.cl",
+   "desc": "动态回声 · 极光回荡",
+   "name": "回声",
+   "preview": "dials/star-echo/preview.png",
+   "sha256": "c2766bcf0f078ea59304da7959673c61e20fc4b71979eef80fb9deabed8dce38",
+   "size": 2290847,
+   "status": "active",
+   "tier": 2
+  },
+  "star-frost": {
+   "at": "2026-10-11T13:40:26Z",
+   "author": "星",
+   "cl": "dials/star-frost/star-frost.cl",
+   "desc": "霜白冷调 · 碳纤质感",
+   "name": "霜白",
+   "preview": "dials/star-frost/preview.png",
+   "sha256": "4fde90c8019f18cf7e31ccb9608fad0e5e989ce545f5e5e5dd0811c768ab03c5",
+   "size": 2925816,
+   "status": "active",
+   "tier": 0
   },
   "star-galaxy": {
    "at": "2026-10-11T12:43:35Z",
@@ -96,6 +144,18 @@
    "size": 2583940,
    "status": "active",
    "tier": 2
+  },
+  "star-mint": {
+   "at": "2026-10-11T13:40:26Z",
+   "author": "星",
+   "cl": "dials/star-mint/star-mint.cl",
+   "desc": "薄荷清凉 · 圆点跳动",
+   "name": "薄荷",
+   "preview": "dials/star-mint/preview.png",
+   "sha256": "98469d58c24f55698cacc3be1259e9e6ec95d8ca97fb42cb3d2ee238125f6ff7",
+   "size": 5723756,
+   "status": "active",
+   "tier": 0
   },
   "star-mist": {
    "at": "2026-10-11T12:43:35Z",
@@ -182,6 +242,6 @@
    "tier": 0
   }
  },
- "updated": "2026-10-10T14:23:12Z",
+ "updated": "2026-10-11T13:40:26Z",
  "ver": 1
 }

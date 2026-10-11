@@ -1,0 +1,12 @@
+{
+ "name": "回声",
+ "author": "星",
+ "desc": "动态回声 · 极光回荡",
+ "size": 2290847,
+ "sha256": "c2766bcf0f078ea59304da7959673c61e20fc4b71979eef80fb9deabed8dce38",
+ "cl": "dials/star-echo/star-echo.cl",
+ "preview": "dials/star-echo/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-11T13:40:26Z"
+}

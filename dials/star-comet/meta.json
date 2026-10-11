@@ -1,0 +1,12 @@
+{
+ "name": "彗星",
+ "author": "星",
+ "desc": "动态彗星 · 星轨流动",
+ "size": 2408043,
+ "sha256": "6fd932371dc9b46c6cd612f5967cdec4bb1319782d8aaf299de2ed75592c4af7",
+ "cl": "dials/star-comet/star-comet.cl",
+ "preview": "dials/star-comet/preview.png",
+ "status": "active",
+ "tier": 2,
+ "at": "2026-10-11T13:40:26Z"
+}

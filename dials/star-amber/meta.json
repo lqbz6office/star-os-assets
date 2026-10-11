@@ -1,0 +1,12 @@
+{
+ "name": "琥珀",
+ "author": "星",
+ "desc": "琥珀暖光 · 网格刻度",
+ "size": 2925816,
+ "sha256": "ccc6b88697e21ddf15c4f207e597a5fac9d7f630ada27c7fad3b25693ca6f5fb",
+ "cl": "dials/star-amber/star-amber.cl",
+ "preview": "dials/star-amber/preview.png",
+ "status": "active",
+ "tier": 0,
+ "at": "2026-10-11T13:40:26Z"
+}

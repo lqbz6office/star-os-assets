@@ -1,0 +1,78 @@
+{
+ "entries": {
+  "pack-abyss": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "深海蓝黑壁纸 + 月光点缀,夜猫子专属",
+   "name": "深海潮汐",
+   "pack": "packs/pack-abyss/pack.zip",
+   "preview": "packs/pack-abyss/preview.png",
+   "sha256": "7ec3bb90138852bbd3517cc6bccc74e00af55827b8c881aac58aacb3f9de0c8e",
+   "size": 8143324,
+   "status": "active",
+   "tier": 2
+  },
+  "pack-amber": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "琥珀暖色壁纸 + 金色点缀,冬天看着暖",
+   "name": "琥珀暖阳",
+   "pack": "packs/pack-amber/pack.zip",
+   "preview": "packs/pack-amber/preview.png",
+   "sha256": "41049ac94475d67954e91c4b5914091872872801b12255b040de5fba50c4680a",
+   "size": 8103835,
+   "status": "active",
+   "tier": 2
+  },
+  "pack-aurora": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "深空蓝壁纸 + 全套图标换装,百搭不出错",
+   "name": "深空极光",
+   "pack": "packs/pack-aurora/pack.zip",
+   "preview": "packs/pack-aurora/preview.png",
+   "sha256": "a77f641ce9d705af666ea2e00104947ff4489c1c9ee7ea554b344ea57e6c0e16",
+   "size": 8142827,
+   "status": "active",
+   "tier": 0
+  },
+  "pack-carbon": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "碳纤质感深灰壁纸,商务范",
+   "name": "碳纤夜行",
+   "pack": "packs/pack-carbon/pack.zip",
+   "preview": "packs/pack-carbon/preview.png",
+   "sha256": "17203047b6f022b21db5c4ab43507ddc2d62daec5d916a3ad0811c970837bd62",
+   "size": 8517726,
+   "status": "active",
+   "tier": 2
+  },
+  "pack-mint": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "薄荷绿壁纸 + 清爽图标,看着就凉快",
+   "name": "薄荷清风",
+   "pack": "packs/pack-mint/pack.zip",
+   "preview": "packs/pack-mint/preview.png",
+   "sha256": "bd0fb51a283f3dcd4cd40655cbd9e4f920d17a322f55cbb6cf70cf5708e6127e",
+   "size": 8087866,
+   "status": "active",
+   "tier": 0
+  },
+  "pack-sakura": {
+   "at": "2026-11-13T03:57:18Z",
+   "author": "星",
+   "desc": "樱粉壁纸 + 圆角气泡组件",
+   "name": "樱粉气泡",
+   "pack": "packs/pack-sakura/pack.zip",
+   "preview": "packs/pack-sakura/preview.png",
+   "sha256": "7f12fbabc0668af162901cc18f5731ad389beee4946948a0201c6ec0f6d8ab15",
+   "size": 9458095,
+   "status": "active",
+   "tier": 2
+  }
+ },
+ "schema": 1,
+ "updated": "2026-11-13T03:57:18Z"
+}
